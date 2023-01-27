@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  /* font-family: "Manrope", sans-serif; */
+  font-family: 'Poppins', sans-serif;
+}
+.cover-img {
+  filter: opacity(60%);
+}
+.footer-hr {
+  color: white;
+}
